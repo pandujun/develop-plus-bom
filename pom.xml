@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.pandj</groupId>
+    <groupId>io.github.pandujun</groupId>
     <artifactId>develop-plus-bom</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0.RELEASE</version>
     <packaging>pom</packaging>
 
     <properties>
@@ -15,8 +15,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <!--基础服务-->
-        <develop-plus-web.version>1.0.0-SNAPSHOT</develop-plus-web.version>
-        <develop-plus-feign.version>1.0.0-SNAPSHOT</develop-plus-feign.version>
+        <develop-plus-web.version>1.0.0.RELEASE</develop-plus-web.version>
+        <develop-plus-feign.version>1.0.0.RELEASE</develop-plus-feign.version>
 
         <!--外部工具-->
         <pingyin4j.version>2.5.1</pingyin4j.version>
@@ -30,14 +30,14 @@
         <dependencies>
             <!--web-->
             <dependency>
-                <groupId>com.pandj</groupId>
+                <groupId>io.github.pandujun</groupId>
                 <artifactId>develop-plus-web</artifactId>
                 <version>${develop-plus-web.version}</version>
             </dependency>
 
             <!--feign-->
             <dependency>
-                <groupId>com.pandj</groupId>
+                <groupId>io.github.pandujun</groupId>
                 <artifactId>develop-plus-feign</artifactId>
                 <version>${develop-plus-feign.version}</version>
             </dependency>
