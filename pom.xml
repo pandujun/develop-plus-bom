@@ -6,7 +6,7 @@
 
     <groupId>io.github.pandujun</groupId>
     <artifactId>develop-plus-bom</artifactId>
-    <version>1.0.0.RELEASE</version>
+    <version>1.0.1.RELEASE</version>
     <description>develop-plus-bom</description>
     <url>https://github.com/pandujun/develop-plus-bom.git</url>
     <packaging>pom</packaging>
@@ -45,8 +45,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <!--基础服务-->
-        <develop-plus-web.version>1.0.0.RELEASE</develop-plus-web.version>
-        <develop-plus-feign.version>1.0.0.RELEASE</develop-plus-feign.version>
+        <develop-plus-web.version>1.0.1.RELEASE</develop-plus-web.version>
+        <develop-plus-feign.version>1.0.1.RELEASE</develop-plus-feign.version>
 
         <!--外部工具-->
         <pingyin4j.version>2.5.1</pingyin4j.version>
