@@ -13,7 +13,7 @@
     <spring-boot.version>3.2.4</spring-boot.version>
     <spring-cloud.version>2023.0.1</spring-cloud.version>
     <spring-cloud-alibaba.version>2023.0.1.0</spring-cloud-alibaba.version>
-    <develop-plus-bom.version>1.0.0.RELEASE</develop-plus-bom.version>
+    <develop-plus-bom.version>1.0.1.RELEASE</develop-plus-bom.version>
 </properties>
 
 <dependencies>
