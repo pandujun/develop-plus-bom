@@ -6,7 +6,7 @@
 
     <groupId>io.github.pandujun</groupId>
     <artifactId>develop-plus-bom</artifactId>
-    <version>1.0.2.RELEASE</version>
+    <version>1.0.3.RELEASE</version>
     <packaging>pom</packaging>
 
     <name>develop-plus-bom</name>
@@ -54,7 +54,7 @@
         <central-publishing-maven-plugin.version>0.7.0</central-publishing-maven-plugin.version>
 
         <!--基础服务-->
-        <develop-plus.version>1.0.2.RELEASE</develop-plus.version>
+        <develop-plus.version>1.0.3.RELEASE</develop-plus.version>
 
         <!--外部工具-->
         <pingyin4j.version>2.5.1</pingyin4j.version>
