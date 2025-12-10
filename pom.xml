@@ -158,7 +158,7 @@
                 <extensions>true</extensions>
                 <configuration>
                     <publishingServerId>develop-plus</publishingServerId>
-                    <tokenAuth>true</tokenAuth>
+                    <autoPublish>true</autoPublish>
                 </configuration>
             </plugin>
             <!--   source源码插件 -->
